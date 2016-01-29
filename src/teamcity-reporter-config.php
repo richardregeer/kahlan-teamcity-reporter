@@ -1,6 +1,6 @@
 <?php
 use Kahlan\Filter\Filter;
-use RRegeer\Reporters;
+use RRegeer\Reporters\TeamcityReporter;
 
 Filter::register('kahlan.teamcity', function() {
     $reporters = $this->reporters();
