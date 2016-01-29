@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "47ce7598902f7101957649c07b4e768b",
-    "content-hash": "823bdbc16a848d0775f2030fef42c3b2",
+    "hash": "a4b917f5ae819de2630b87b7c5ef8117",
+    "content-hash": "8722258a27a5f39bfeb2cbd41808cd72",
     "packages": [
         {
             "name": "crysalead/kahlan",
@@ -63,7 +63,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": [],
-    "prefer-stable": true,
+    "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
         "php": ">=5.5.0"
