@@ -1,0 +1,21 @@
+{
+  "name": "rregeer/kahlan-teamcity-reporter",
+  "description": "Library containing a teamcity reporter for kahlan.",
+  "keywords": ["Testing", "Teamcity", "Teamcity report", "Test report", "Kahlan report", "Kahlan"],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.0",
+    "crysalead/kahlan": "^2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "RRegeer\\Reporters\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "RRegeer\\Reporters\\": "specs/"
+    }
+  }
+}
